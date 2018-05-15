@@ -1,10 +1,10 @@
 # mpsyt
-This Tool can play youtube video and also audio background in android on termux
+This Tool can do only configration for "mpsyt tool "whic is create by a great developer, it can be run on android withouyt any issue.
 installation........
 
 Termux>
-
-pkg install -y gcc
+pgk install -y git
+pkg install -y clang
 gcc mpsyt.c
 select 1
 Kali Linux...
