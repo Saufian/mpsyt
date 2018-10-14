@@ -3,19 +3,13 @@ This Tool can do only configration for "mpsyt tool "whic is create by a great de
 
 installation........
 
-Termux>
-
-pgk install -y git
-
-pkg install -y clang
-
-gcc mpsyt.c
-
-select 1
-
-Kali Linux...
-
-gcc mpsyt.c
+* Termux>
+* pgk install -y git
+* pkg install -y clang
+* gcc mpsyt.c
+* select 1
+* Kali Linux...
+* gcc mpsyt.c
 
 
 
